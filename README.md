@@ -33,3 +33,4 @@ This project was created to apply linear algebra concepts using Python programmi
 ## Demonstrations
 <img width="1648" height="954" alt="Screenshot 2026-04-14 012630" src="https://github.com/user-attachments/assets/0293051c-e522-4f4c-8ab5-bd259d081a45" />
 <img width="1243" height="984" alt="Screenshot 2026-04-14 012705" src="https://github.com/user-attachments/assets/859ab9f8-d231-484d-bee2-eeeaf4aeaeb1" />
+<img width="1753" height="765" alt="Screenshot 2026-04-18 022908" src="https://github.com/user-attachments/assets/27d4cf89-1c77-4763-8c13-162559bb9e91" />
