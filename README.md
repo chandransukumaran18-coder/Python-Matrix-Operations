@@ -20,8 +20,11 @@ This project is a Python-based Matrix Calculator designed to perform linear alge
 2. Install NumPy
 3. Run the Python file
 
-## Example Usage
-Enter a matrix and choose an operation to perform.
+## Challenges & Learning
+
+- Handling non-invertible matrices (determinant = 0)
+- Validating user input for matrix size and values
+- Structuring code for multiple matrix operations
 
 ## Purpose
 This project was created to apply linear algebra concepts using Python programming and improve problem-solving skills.
