@@ -52,7 +52,6 @@ def improve_matrix():
                 print("The inverse of the matrix is:")
                 print(inv)
         if choice==4:
-            #i need to learn more about this ,AI assisted
             n = x.shape[0]  
             minors = np.zeros((n,n))
             for i in range(n):
