@@ -1,7 +1,7 @@
 # Matrix Calculator
 
 ## Description
-This project is a Python-based Matrix Calculator designed to perform linear algebra operations on square matrices of any order. It calculates inverse, adjoint, transpose, determinant, and main diagonal values using Python and NumPy.
+This project is a Python-based Matrix Calculator designed to perform linear algebra operations on square matrices of any order. It calculates inverse, adjoint, transpose, determinant, and main diagonal values using Python and NumPy.This projects highlights my skill in mathematical logic and Python programming
 
 ## Features
 - Matrix inverse
